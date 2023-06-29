@@ -19,5 +19,38 @@
 		"displayName": "Deadman",
 		"description": "Alerts when players are detected and we are not in a safezone",
 		"provider": "tj28"
-	}
+	},
+	{
+		"internalName": "neverlog",
+		"hash": "cabc176ff5b1f3ecc15343aad19828df7b9142817f36b7b87a6ab36ffe66fa13",
+		"size": 3646,
+		"plugins": [
+			"net.runelite.client.plugins.neverlog.neverlogPlugin"
+		],
+		"displayName": "Never Log",
+		"description": "Never log out",
+		"provider": "tj28"
+	},
+	{
+		"internalName": "hotkeyablemenuswaps",
+		"hash": "9faf4bb7c9076f39ef9469535ae378a161c81f4a9fabe00ae343b7565fd7d6eb",
+		"size": 36339,
+		"plugins": [
+			"net.runelite.client.plugins.hotkeyablemenuswaps.HotkeyableMenuSwapsPlugin"
+		],
+		"displayName": "Custom Menu Swaps",
+		"description": "",
+		"provider": "tj28"
+	},
+	{
+		"internalName": "devtools",
+		"hash": "1f6244ade3690aa8c327f9a1d3916a6208db44d52b96ada09a3077b6c99fb155",
+		"size": 103142,
+		"plugins": [
+			"net.runelite.client.plugins.devtools.DevToolsPlugin"
+		],
+		"displayName": "Developer Tools",
+		"description": "",
+		"provider": "tj28"
+	},
 ]
