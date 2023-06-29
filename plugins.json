@@ -1,5 +1,16 @@
 [
     {
+    "internalName": "hijack-customize-pluginhub",
+    "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
+    "size": 2221,
+    "plugins": [
+      "ca.arnah.runelite.HijackCustomizePlugin"
+    ],
+    "displayName": "HiJack Customize PluginHub",
+    "description": "",
+    "provider": "arnah"
+    }
+    {
       "internalName": "deadman",
       "hash": "2cceb1e6bf70b591050c4603f99d79d6ecb5a6efd1bb64b2344261ab66ff36ef",
       "size": 3989,
