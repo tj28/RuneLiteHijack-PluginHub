@@ -1,0 +1,13 @@
+[
+    {
+      "internalName": "deadman",
+      "hash": "270396B117F89DB765AA51AD402206A94089247AECA70FA0640C2F33A69ADBD2",
+      "size": 3263,
+      "plugins": [
+        "net.runelite.client.plugins.deadman"
+      ],
+      "displayName": "Deadman",
+      "description": "Alerts when players are detected and we are not in a safezone",
+      "provider": "tj28"
+    }
+  ]
