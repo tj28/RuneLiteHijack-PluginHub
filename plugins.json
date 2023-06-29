@@ -1,7 +1,7 @@
 [
     {
       "internalName": "deadman",
-      "hash": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
+      "hash": "2cceb1e6bf70b591050c4603f99d79d6ecb5a6efd1bb64b2344261ab66ff36ef",
       "size": 3989,
       "plugins": [
         "net.runelite.client.plugins.deadman.deadmanPlugin"
