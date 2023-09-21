@@ -52,5 +52,16 @@
 		"displayName": "Developer Tools",
 		"description": "",
 		"provider": "tj28"
+	},
+		{
+		"internalName": "hallowedhelper",
+		"hash": "3bd51c89703ee6d4fcd1f1f90f864dcd1771f7c650b09f4ba2591e80a13f0125",
+		"size": 42481,
+		"plugins": [
+			"net.runelite.client.plugins.hallowedhelper.hallowedhelperPlugin"
+		],
+		"displayName": "Hallowed Sepulchre Helper",
+		"description": "buggy",
+		"provider": "tj28"
 	}
 ]
